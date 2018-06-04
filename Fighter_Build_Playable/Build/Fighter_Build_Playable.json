@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Fighter_Build_Playable.data.unityweb",
+"asmCodeUrl": "Fighter_Build_Playable.asm.code.unityweb",
+"asmMemoryUrl": "Fighter_Build_Playable.asm.memory.unityweb",
+"asmFrameworkUrl": "Fighter_Build_Playable.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
